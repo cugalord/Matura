@@ -1,0 +1,5 @@
+-baza mysql (konceptualno že narejena)
+-report generator + google cloud print
+-web app client (pc & mobile)
+-qr code scanner for web client (https://www.sitepoint.com/create-qr-code-reader-mobile-website/)
+-admin  view
